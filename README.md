@@ -83,5 +83,5 @@ ocr()
 
 captchaType类型就是图片相对的名字
 支持以下图片
-![alt text](image.png)
-![alt text](1000_bany_ico.jpg) ![alt text](1000_jiazi_ico.jpg) ![alt text](1000_Shouzhi_ico.jpg) ![alt text](1000_shubei_ico.jpg) ![alt text](1000_shuipao_ico.jpg) ![alt text](1200_car_distance.jpg) ![alt text](1200_icon_line.jpg) ![alt text](1200_shaizi.jpg) ![alt text](1200_Shouzhi_fangxiang.jpg) ![alt text](1200_Stack_stones.jpg) ![alt text](1200_Stone_number.jpg) ![alt text](1200_zuowei_ico.jpg) ![alt text](1600_ShouZhi_and_ico.jpg) ![alt text](1600_Vegetable.jpg)
+<img src="image.png" alt="alt text" width="500" />
+<img src="1000_bany_ico.jpg" alt="alt text" width="500" /> <img src="1000_jiazi_ico.jpg" alt="alt text" width="500" /> <img src="1000_Shouzhi_ico.jpg" alt="alt text" width="500" /> <img src="1000_shubei_ico.jpg" alt="alt text" width="500" /> <img src="1000_shuipao_ico.jpg" alt="alt text" width="500" /> <img src="1200_car_distance.jpg" alt="alt text" width="500" /> <img src="1200_icon_line.jpg" alt="alt text" width="500" /> <img src="1200_shaizi.jpg" alt="alt text" width="500" /> <img src="1200_Shouzhi_fangxiang.jpg" alt="alt text" width="500" /> <img src="1200_Stack_stones.jpg" alt="alt text" width="500" /> <img src="1200_Stone_number.jpg" alt="alt text" width="500" /> <img src="1200_zuowei_ico.jpg" alt="alt text" width="500" /> <img src="1600_ShouZhi_and_ico.jpg" alt="alt text" width="500" /> <img src="1600_Vegetable.jpg" alt="alt text" width="500" />
